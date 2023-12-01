@@ -18,10 +18,10 @@ project about mange product, order,...
     ![Screenshot (36)](https://github.com/son1105/lab07_NguyenThanhSon_20106421_WWW_OrderManage/assets/115455297/cf4b4aaf-4d0f-43c2-8c21-ed687eeca7a6)
   + Xem thông tin của order:
       * Xem thông tin của nhân viên đã lập order đó: click vào employeeId trong ô của order muốn xem, sau đó hệ thống sẽ tự động chuyển đến trang hiển thị nhân viên đã chọn.
-        ![Screenshot (36)](https://github.com/son1105/lab07_NguyenThanhSon_20106421_WWW_OrderManage/assets/115455297/e5dde1d1-5c3d-4eef-9ede-cac295bd1a6f)
+        ![Screenshot (38)](https://github.com/son1105/lab07_NguyenThanhSon_20106421_WWW_OrderManage/assets/115455297/4fa0fb02-f2e6-4797-9643-fd55a5924f5b)
 
       * Xem thông tin khách hàng đã order: click vào customerId trong ô của order muốn xem, sau đó hệ thống sẽ tự động chuyển đến trang hiển thị khách hàng đã chọn.
-        ![Screenshot (38)](https://github.com/son1105/lab07_NguyenThanhSon_20106421_WWW_OrderManage/assets/115455297/4fa0fb02-f2e6-4797-9643-fd55a5924f5b)
+        ![Screenshot (49)](https://github.com/son1105/lab07_NguyenThanhSon_20106421_WWW_OrderManage/assets/115455297/5cd6f456-fba9-4448-aba2-f26966f8554a)
 
       * Xem order detail của order: click vào button "View" trong cột "View Detail" của order muốn xem.
         ![Screenshot (40)](https://github.com/son1105/lab07_NguyenThanhSon_20106421_WWW_OrderManage/assets/115455297/06455bda-bc7b-4480-9f45-ab34372c97f1)

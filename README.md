@@ -21,7 +21,7 @@ project about mange product, order,...
         ![Screenshot (38)](https://github.com/son1105/lab07_NguyenThanhSon_20106421_WWW_OrderManage/assets/115455297/4fa0fb02-f2e6-4797-9643-fd55a5924f5b)
 
       * Xem thông tin khách hàng đã order: click vào customerId trong ô của order muốn xem, sau đó hệ thống sẽ tự động chuyển đến trang hiển thị khách hàng đã chọn.
-        ![Screenshot (49)](https://github.com/son1105/lab07_NguyenThanhSon_20106421_WWW_OrderManage/assets/115455297/5cd6f456-fba9-4448-aba2-f26966f8554a)
+        ![Screenshot (50)](https://github.com/son1105/lab07_NguyenThanhSon_20106421_WWW_OrderManage/assets/115455297/f3f70344-56d5-4803-b0bd-4ae45614878b)
 
       * Xem order detail của order: click vào button "View" trong cột "View Detail" của order muốn xem.
         ![Screenshot (40)](https://github.com/son1105/lab07_NguyenThanhSon_20106421_WWW_OrderManage/assets/115455297/06455bda-bc7b-4480-9f45-ab34372c97f1)
